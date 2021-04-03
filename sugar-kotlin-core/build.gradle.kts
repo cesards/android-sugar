@@ -5,6 +5,8 @@ plugins {
     id("java-library")
     //id("kotlin") version "1.4.31"
     id("kotlin")
+
+    //id("com.vanniktech.maven.publish")
 }
 
 dependencies {
